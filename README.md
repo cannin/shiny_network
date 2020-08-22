@@ -1,3 +1,14 @@
+# Introduction 
+
+Example R Shiny application using the [Cytoscape cyjShiny](https://github.com/cytoscape/cyjShiny) widget. The example can: 
+
+* Map data values onto network 
+* Switch between networks (e.g., KEGG pathways)
+* Display values of selected nodes on table
+* Save results to PDF
+
+![R Shiny cyjShiny Example Network](screenshot_shiny_cyjShiny_network.png)
+
 # Installation 
 
 See shinyNetworkDemoApp.R for necessary packages 
